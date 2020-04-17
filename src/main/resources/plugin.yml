@@ -1,0 +1,7 @@
+name: HopperBan
+version: ${project.version}
+main: mc.mec.hopperban.HopperBan
+api-version: 1.13
+author: Mr_El_Capitan
+commands:
+  hopperban:
